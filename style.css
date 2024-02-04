@@ -20,7 +20,7 @@ section {
     background-color: antiquewhite;
     background: #e0e0e0;
     box-shadow:  20px 20px 60px #bebebe,
-             -20px -20px 60px #ffffff;
+                -20px -20px 60px #ffffff;
 }
 
 figure img {
@@ -35,7 +35,7 @@ figure img {
 
 figcaption h2 {
     position: absolute;
-    top: 28.3%;
+    top: 28.2%;
     z-index: 2;
     font-size: 3em;
     background-color: rgba(222, 184, 135, 0.783);
